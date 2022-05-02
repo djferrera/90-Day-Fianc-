@@ -1,0 +1,117 @@
+﻿Series,Season,Return-season-1,Return-season-2,All-seasons,Couple,Name,Gender,Age,City,State,Latitude,Longitude,Met,Met-detail,Wed,Still-together,Children
+90 Day Fiance,1,0,0,1,1,Russ,M,27,Oklahoma City,OK,35.4675602,-97.5164276,travel,work,Y,Y,1
+90 Day Fiance,1,0,0,1,1,Paola,F,26,Bogota,Colombia,4.7109886,-74.072092,travel,work,Y,Y,1
+90 Day Fiance,1,0,0,1,2,Alan,M,29,Los Angeles,CA,34.0522342,-118.2436849,religious,Mormon mission,Y,Y,2
+90 Day Fiance,1,0,0,1,2,Kirlyam,F,21,Goiania,Brazil,-16.6868912,-49.2647943,religious,Mormon mission,Y,Y,2
+90 Day Fiance,1,0,0,1,3,Louis,M,33,Indianapolis,IN,39.768403,-86.158068,online,dating service,Y,Y,2
+90 Day Fiance,1,0,0,1,3,Aya,F,30,Ormoc,Philippines,11.0384275,124.6192702,online,dating service,Y,Y,2
+90 Day Fiance,1,0,0,1,4,Mike,M,31,Cleveland,OH,41.49932,-81.6943605,online,language,Y,Y,1
+90 Day Fiance,1,0,0,1,4,Aziza,F,21,Volgograd,Russia,48.708048,44.5133035,online,language,Y,Y,1
+90 Day Fiance,2,0,0,2,5,Chelsea,F,25,Galesburg,IL,40.9478158,-90.3712395,travel,volunteer,Y,N,0
+90 Day Fiance,2,0,0,2,5,Yamir,M,28,Managua,Nicaragua,12.1149926,-86.2361744,travel,volunteer,Y,N,0
+90 Day Fiance,2,0,0,2,6,Danielle,F,41,Norwalk,OH,41.2425531,-82.6157331,online,chat room,Y,N,0
+90 Day Fiance,2,0,0,2,6,Mohamed,M,26,Tunis,Tunisia,36.8064948,10.1815316,online,chat room,Y,N,0
+90 Day Fiance,2,0,0,2,7,Justin,M,34,San Jose,CA,37.3382082,-121.8863286,travel,rugby match,Y,Y,1
+90 Day Fiance,2,0,0,2,7,Evelin,F,29,Cali,Colombia,3.4516467,-76.5319854,travel,rugby match,Y,Y,1
+90 Day Fiance,2,0,0,2,8,Brett,M,31,Snohomish,WA,47.9128756,-122.0981847,online,datig service,Y,Y,1
+90 Day Fiance,2,0,0,2,8,Daya,F,29,San Carlos,Philippines,10.4556952,123.277534,online,datig service,Y,Y,1
+90 Day Fiance,2,0,0,2,9,Jason,M,38,Spring Hill,FL,28.4831682,-82.5369872,online,facebook,Y,N,0
+90 Day Fiance,2,0,0,2,9,Cassia,F,23,Curitiba,Brazil,-25.4372382,-49.2699727,online,facebook,Y,N,0
+90 Day Fiance,2,0,0,2,10,Danny,M,23,Norristown,PA,40.121497,-75.3399048,travel,Bible study trip,Y,Y,3
+90 Day Fiance,2,0,0,2,10,Amy,F,21,Cape Town,South Africa,-33.9248685,18.4240553,travel,Bible study trip,Y,Y,3
+90 Day Fiance,3,0,0,3,11,Mark,M,58,Baltimore,MD,39.2903848,-76.6121893,online,dating service,Y,Y,0
+90 Day Fiance,3,0,0,3,11,Nikki,F,19,Cebu City,Philippines,10.3156992,123.8854366,online,dating service,Y,Y,0
+90 Day Fiance,3,0,0,3,12,Loren,F,27,New York City,NY,40.7127753,-74.0059728,religious,Birthright Israel trip,Y,Y,2
+90 Day Fiance,3,0,0,3,12,Alexei,M,27,Nazareth Illit,Israel,32.711539,35.324812,religious,Birthright Israel trip,Y,Y,2
+90 Day Fiance,3,0,0,3,13,Kyle,M,28,New Orleans,LA,29.9510658,-90.0715323,online,facebook,Y,Y,0
+90 Day Fiance,3,0,0,3,13,Noon,F,25,Bangkok,Thailand,13.7563309,100.5017651,online,facebook,Y,Y,0
+90 Day Fiance,3,0,0,3,14,Melanie,F,33,Orwigsburg,PA,40.654813,-76.1007713,travel,vacation,Y,Y,1
+90 Day Fiance,3,0,0,3,14,Devar,M,28,Runaway Bay,Jamaica,18.4519685,-77.3249532,travel,vacation,Y,Y,1
+90 Day Fiance,3,0,0,3,15,Fernando,M,39,Doral,FL,25.8195424,-80.3553302,travel,vacation,Y,N,0
+90 Day Fiance,3,0,0,3,15,Carolina,F,22,Medellin,Colombia,6.2476376,-75.5658153,travel,vacation,Y,N,0
+90 Day Fiance,3,0,0,3,16,Josh,M,22,Rexburg,ID,43.8231096,-111.7924237,religious,Mormon mission,Y,Y,2
+90 Day Fiance,3,0,0,3,16,Aleksandra,F,21,Kirov,Russia,58.6030012,49.6679437,religious,Mormon mission,Y,Y,2
+90 Day Fiance,4,0,0,4,17,Jorge,M,27,Riverside,CA,33.9806005,-117.3754942,online,facebook,Y,N,0
+90 Day Fiance,4,0,0,4,17,Anfisa,F,20,Moscow,Russia,55.755826,37.6172999,online,facebook,Y,N,0
+90 Day Fiance,4,5,0,"4, 5",18,Nicole,F,22,Bradenton,FL,27.4989278,-82.5748194,online,dating service,N,N,0
+90 Day Fiance,4,5,0,"4, 5",18,Azan,M,24,Agadir,Morocco,30.4277547,-9.5981072,online,dating service,N,N,0
+90 Day Fiance,4,0,0,4,19,Narkyia,F,36,Camp Hill,PA,40.2398118,-76.9199742,online,dating service,Y,Y,1
+90 Day Fiance,4,0,0,4,19,Olulowo,M,28,Lagos,Nigeria,6.5243793,3.3792057,online,dating service,Y,Y,1
+90 Day Fiance,4,0,0,4,20,Matt,M,43,Williamstown,KY,38.6381245,-84.5604977,online,dating service,Y,Y,1
+90 Day Fiance,4,0,0,4,20,Alla,F,30,Kiev,Ukraine,50.4501,30.5234,online,dating service,Y,Y,1
+90 Day Fiance,4,0,0,4,21,Chantel,F,25,Atlanta,GA,33.7489954,-84.3879824,travel,vacation,Y,Y,0
+90 Day Fiance,4,0,0,4,21,Pedro,M,24,Santo Domingo,Dominican Republic,18.4860575,-69.9312117,travel,vacation,Y,Y,0
+90 Day Fiance,5,0,0,5,22,Elizabeth,F,27,Tampa,FL,27.950575,-82.4571776,travel,vacation,Y,Y,1
+90 Day Fiance,5,0,0,5,22,Andrei,M,31,Chisinau,Moldova,47.0104529,28.8638102,travel,vacation,Y,Y,1
+90 Day Fiance,5,0,0,5,23,Evelyn,F,18,Claremont,NH,43.3728635,-72.3378744,online,facebook,Y,N,0
+90 Day Fiance,5,0,0,5,23,David,M,27,Granada,Spain,37.1773363,-3.5985571,online,facebook,Y,N,0
+90 Day Fiance,5,0,0,5,24,Molly,F,41,Woodstock,GA,34.1014873,-84.5193754,travel,vacation,Y,N,0
+90 Day Fiance,5,0,0,5,24,Luis,M,26,Santo Domingo,Dominican Republic,18.4860575,-69.9312117,travel,vacation,Y,N,0
+90 Day Fiance,5,0,0,5,25,David,M,48,Louisville,KY,38.2526647,-85.7584557,travel,living abroad,Y,Y,0
+90 Day Fiance,5,0,0,5,25,Annie,F,24,Bueng Kan,Thailand,18.326944,103.6883765,travel,living abroad,Y,Y,0
+90 Day Fiance,5,0,0,5,26,Josh,M,43,Mesa,AZ,33.4151843,-111.8314724,online,dating site / app,Y,Y,0
+90 Day Fiance,5,0,0,5,26,Aika,F,36,Quezon City,Philippines,14.6760413,121.0437003,online,dating site / app,Y,Y,0
+90 Day Fiance,6,0,0,6,27,Ashley,F,31,Mechanicsburg,PA,40.2132692,-77.0080309,travel,vacation,Y,N,0
+90 Day Fiance,6,0,0,6,27,Jay,M,20,Port Maria,Jamaica,18.3653596,-76.8922729,travel,vacation,Y,N,0
+90 Day Fiance,6,0,0,6,28,Colt,M,33,Las Vegas,NV,36.1699412,-115.1398296,online,dating site / app,Y,N,0
+90 Day Fiance,6,0,0,6,28,Larissa,F,31,Minas Gerais,Brazil,-17.930178,-43.7908453,online,dating site / app,Y,N,0
+90 Day Fiance,6,0,0,6,29,Jonathan,M,32,Lumberton,NC,34.6182199,-79.0086424,travel,vacation,Y,N,0
+90 Day Fiance,6,0,0,6,29,Fernanda,F,19,Celaya,Mexico,20.5279612,-100.8112885,travel,vacation,Y,N,0
+90 Day Fiance,6,0,0,6,30,Kalani,F,30,Orange County,CA,33.7174708,-117.8311428,travel,vacation,Y,Y,2
+90 Day Fiance,6,0,0,6,30,Asuelu,M,23,Apia,Samoa,-13.8506958,-171.7513551,travel,vacation,Y,Y,2
+90 Day Fiance,6,0,0,6,31,Eric,M,40,Baraboo,WI,43.4710944,-89.7442906,online,dating site / app,Y,Y,0
+90 Day Fiance,6,0,0,6,32,Leida,F,29,Jakarta,Indonesia,-6.2087634,106.845599,online,dating site / app,Y,Y,0
+90 Day Fiance,6,0,0,6,32,Steven,M,20,Bowie,MD,39.0067768,-76.7791365,travel,vacation,Y,Y,1
+90 Day Fiance,6,0,0,6,32,Olga,F,20,Voronezh,Russia,51.6683487,39.1919288,travel,vacation,Y,Y,1
+90 Day Fiance,7,0,0,7,33,Emily,F,29,Portland,OR,45.515232,-122.6783853,travel,work,Y,Y,1
+90 Day Fiance,7,0,0,7,33,Sasha,M,32,Moscow,Russia,55.755826,37.6172999,travel,work,Y,Y,1
+90 Day Fiance,7,0,0,7,34,Anna,F,38,Bellevue,NE,41.1543623,-95.9145568,online,social media,Y,Y,0
+90 Day Fiance,7,0,0,7,34,Mursel,M,38,Antalya,Turkey,36.8968908,30.7133233,online,social media,Y,Y,0
+90 Day Fiance,7,0,0,7,35,Michael,M,42,Greenwich,CT,41.0262417,-73.6281964,travel,vacation,Y,N,0
+90 Day Fiance,7,0,0,7,35,Julianna,F,23,Goiania,Brazil,-16.6868912,-49.2647943,travel,vacation,Y,N,0
+90 Day Fiance,7,0,0,7,36,Tania,F,29,Colchester,CT,41.5756728,-72.3320051,travel,vacation,Y,N,0
+90 Day Fiance,7,0,0,7,36,Syngin,M,29,Cape Town,South Africa,-33.9248685,18.4240553,travel,vacation,Y,N,0
+90 Day Fiance,7,0,0,7,37,Robert,M,41,Winter Park,FL,28.5999998,-81.3392352,online,unknown,Y,Y,2
+90 Day Fiance,7,0,0,7,37,Anny,F,31,Santiago,Dominican Republic,18.4860575,-69.9312117,online,unknown,Y,Y,2
+90 Day Fiance,7,0,0,7,38,Blake,M,29,Los Angeles,CA,34.0522342,-118.2436849,online,unknown,Y,Y,0
+90 Day Fiance,7,0,0,7,38,Jasmin,F,27,Helsinki,Finland,60.1698557,24.9383791,online,unknown,Y,Y,0
+90 Day Fiance,7,8,0,"7, 8",39,Mike,M,34,Sequim,WA,48.0795365,-123.1018438,introduced,via friends,Y,N,0
+90 Day Fiance,7,8,0,"7, 8",39,Natalie,F,35,Kyiv,Ukraine,50.4501,30.5234,introduced,via friends,Y,N,0
+90 Day Fiance,7,0,0,7,40,Angela,F,53,Hazlehurst,GA,31.8696309,-82.5943026,online,social media,Y,Y,0
+90 Day Fiance,7,0,0,7,40,Michael,M,31,Lagos,Nigeria,6.5243793,3.3792057,online,social media,Y,Y,0
+90 Day Fiance,8,0,0,8,41,Andrew,M,32,Roseville,CA,38.7521235,-121.2880059,online,dating site / app,N,N,0
+90 Day Fiance,8,0,0,8,41,Amira,F,28,Saumur,France,47.260135,-0.080893,online,dating site / app,N,N,0
+90 Day Fiance,8,0,0,8,42,Brandon,M,27,Dinwiddle,VA,37.0769043,-77.6536125,online,unknown,Y,Y,0
+90 Day Fiance,8,0,0,8,42,Julia,F,26,Krasnodar,Russia,45.036035,38.9745706,online,unknown,Y,Y,0
+90 Day Fiance,8,0,0,8,43,Jovi,M,29,Larose,LA,29.572438,-90.3817483,online,dating site / app,Y,Y,1
+90 Day Fiance,8,0,0,8,43,Yara,F,25,Kyviv,Ukraine,50.4501,30.5234,online,dating site / app,Y,Y,1
+90 Day Fiance,8,0,0,8,44,Rebecca,F,49,Woodstock,GA,34.1014873,-84.5193754,online,facebook,Y,Y,0
+90 Day Fiance,8,0,0,8,44,Zied,M,27,Tunis,Tunisia,36.8064948,10.1815316,online,facebook,Y,Y,0
+90 Day Fiance,8,0,0,8,45,Stephanie,F,52,Grand Rapids,MI,42.9633599,-85.6680863,travel,vacation,N,N,0
+90 Day Fiance,8,0,0,8,45,Ryan,M,27,Ladyville,Belize,17.5552159,-88.314212,travel,vacation,N,N,0
+90 Day Fiance,8,0,0,8,46,Tarik,M,46,Virginia Beach,VA,36.8529263,-75.977985,travel,vacation,Y,Y,0
+90 Day Fiance,8,0,0,8,46,Hazel,F,28,Quezon City,Philippines,14.6760413,121.0437003,travel,vacation,Y,Y,0
+90 Day Fiance: The Other Way,1,2,3,"1, 2, 3",47,Jenny,F,53,Palm Springs,CA,33.8302961,-116.5452921,online,social media,Y,Y,0
+90 Day Fiance: The Other Way,1,2,3,"1, 2, 3",47,Sumit,M,23,New Delhi,India,28.6139391,77.2090212,online,social media,Y,Y,0
+90 Day Fiance: The Other Way,1,0,0,1,48,Laura,F,51,Eustis,FL,28.8527675,-81.6853534,travel,vacation,Y,N,0
+90 Day Fiance: The Other Way,1,0,0,1,48,Aladin,M,29,Doha,Qatar,25.2854473,51.5310398,travel,vacation,Y,N,0
+90 Day Fiance: The Other Way,1,0,0,1,49,Tiffany,F,25,Frederick,MD,39.4142688,-77.4105409,travel,vacation,Y,N,1
+90 Day Fiance: The Other Way,1,0,0,1,49,Ronald,M,27,Randfontein,South Africa,-26.1991505,27.6786847,travel,vacation,Y,N,1
+90 Day Fiance: The Other Way,1,3,0,"1, 3",50,Corey,M,36,Mill A,WA,45.7567847,-121.6503523,travel,vacation,Y,Y,0
+90 Day Fiance: The Other Way,1,3,0,"1, 3",50,Evelin,F,30,Engaboa,Ecuador,-2.570697,-80.487217,travel,vacation,Y,Y,0
+90 Day Fiance: The Other Way,1,2,0,"1, 2",51,Devan,F,24,Salt Lake City,UT,40.7607793,-111.8910474,online,dating site / app,Y,N,1
+90 Day Fiance: The Other Way,1,2,0,"1, 2",51,Jihoon,M,31,Seoul,South Korea,37.566535,126.9779692,online,dating site / app,Y,N,1
+90 Day Fiance: The Other Way,1,0,0,1,52,Paul,M,34,Louisville,KY,38.2526647,-85.7584557,online,unknown,Y,N,2
+90 Day Fiance: The Other Way,1,0,0,1,52,Karine,F,21,Tonantins,Brazil,-2.8618121,-67.7756257,online,unknown,Y,N,2
+90 Day Fiance: The Other Way,2,0,0,2,53,Brittany,F,28,Palm Beach,FL,26.7056206,-80.0364297,introduced,via his sister,N,N,0
+90 Day Fiance: The Other Way,2,0,0,2,53,Yazan,M,24,Amman,Jordan,31.9539494,35.910635,introduced,via his sister,N,N,0
+90 Day Fiance: The Other Way,2,3,0,"2, 3",54,Kenneth,M,58,St. Petersburg,FL,27.7676008,-82.6402915,online,social media,Y,Y,0
+90 Day Fiance: The Other Way,2,3,0,"2, 3",54,Armando,M,32,San Felipe,Mexico,31.015567,-114.8385689,online,social media,Y,Y,0
+90 Day Fiance: The Other Way,2,3,0,"2, 3",55,Ariela,F,29,Princeton,NJ,40.3572976,-74.6672226,travel,vacation,Y,Y,1
+90 Day Fiance: The Other Way,2,3,0,"2, 3",55,Biniyam,M,31,Addis Ababa,Ethiopia,8.9806034,38.7577605,travel,vacation,Y,Y,1
+90 Day Fiance: The Other Way,2,0,0,2,56,Tim,M,34,Dallas,TX,32.7766642,-96.7969879,travel,work,N,Y,0
+90 Day Fiance: The Other Way,2,0,0,2,56,Melyza,F,29,Medellin,Colombia,6.2476376,-75.5658153,travel,work,N,Y,0
+90 Day Fiance: The Other Way,3,0,0,3,57,Steven,M,24,Salt Lake City,UT,40.7607793,-111.8910474,online,language,Y,Y,0
+90 Day Fiance: The Other Way,3,0,0,3,57,Alina,F,18,Moscow,Russia,55.755826,37.6172999,online,language,Y,Y,0
+90 Day Fiance: The Other Way,3,0,0,3,58,Ellie,F,45,Seattle,WA,47.6062095,-122.3320708,travel,vacation,N,Y,0
+90 Day Fiance: The Other Way,3,0,0,3,58,Victor,M,38,Providencia Island,Colombia,13.3387613,-81.3729372,travel,vacation,N,Y,0
